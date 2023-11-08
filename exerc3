@@ -1,0 +1,32 @@
+<!DOCTYPEhtml >
+<html> _ _
+< cabeça >
+    < meta  conjunto de caracteres =' utf-8 ' >
+    < meta  http-equiv =' Compatível com X-UA ' content =' IE=edge ' >
+    < title > exercício 3 </ title >
+    < meta  nome =' viewport ' content =' largura=largura do dispositivo, escala inicial=1 ' >
+    < link  rel =' folha de estilo ' type =' text/css ' media =' screen ' href =' main.css ' >
+    < script  src =' main.js ' > </ script >
+</ cabeça >
+< corpo >
+    <p> _ _
+        < b > Algumas marcas(em negrito por exemplo!!!) </ b >
+    </ p >
+    <p> _ _
+        < i > Este parágrafo está em itálico </ i >
+    </ p >
+    <p> _ _
+        < u > Parágrafo sublinhado... </ u >
+    </ p >
+    <p> _ _
+        < big > Ultilizando a mara big </ big >  < small > e a marca small </ small >
+    </ p >
+    <p> _ _
+        Mais uma marca que permite apresentar expressões do < br >
+        gênero x < sup > 2 </ sup > ex < sub > 2 </ sub >
+    </ p >
+    < p > Exemplos de caracteres especiais: < br >
+       á à ã â ç é è õ
+    </ p >
+</ corpo >
+</html> _ _
