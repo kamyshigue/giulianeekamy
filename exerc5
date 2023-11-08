@@ -1,0 +1,24 @@
+<!DOCTYPEhtml >
+<html> _ _
+< cabeça >
+    < meta  conjunto de caracteres =' utf-8 ' >
+    < meta  http-equiv =' Compatível com X-UA ' content =' IE=edge ' >
+    < título > Título da página </ título >
+    < meta  nome =' viewport ' content =' largura=largura do dispositivo, escala inicial=1 ' >
+    < link  rel =' folha de estilo ' type =' text/css ' media =' screen ' href =' main.css ' >
+    < script  src =' main.js ' > </ script >
+</ cabeça >
+< corpo >
+    <tabela> _ _
+    <tr> _ _
+    < tr > direção
+    < td > Amadeu Leite Furtado </ td >
+    < td > amadeus@isp.pt
+    </tr> _ _
+    < tr > rosa@isp.pt
+    < td > Serviços técnicos
+    < td > Rosa dos Santos
+    </ td >
+    </ tabela >
+</ corpo >
+</html> _ _
